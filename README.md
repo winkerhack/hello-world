@@ -1,2 +1,5 @@
 # hello-world
-my first repository
+
+Calling all masters
+
+I need guide to become one of you
